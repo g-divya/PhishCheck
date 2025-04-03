@@ -1,0 +1,12 @@
+{
+  "name": "Phishing Detection",
+  "description": "Detect whether a website is malicious or not",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["tabs"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "phish.png"
+  },
+  "host_permissions": ["http://127.0.0.1:8000/*"]
+}
