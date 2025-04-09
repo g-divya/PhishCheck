@@ -1,0 +1,10 @@
+bert_master/
+bert_tokenizer
+models
+arff_dataset_model_training.ipynb
+urls.txt
+urls.csv
+bert_pretrain.ipynb
+combined_data.csv
+dataset_phishing.csv
+Phishing_Legitimate_full.csv
